@@ -2,7 +2,6 @@
 Нормализируйте заданную таблицу
 */
 
-DROP DATABASE army;
 CREATE DATABASE army;
 USE army;
 
