@@ -1,0 +1,2 @@
+# MySqlNormalizationTable
+Normalize the table
